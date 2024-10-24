@@ -5,3 +5,5 @@
 <a href="https://github.com/poornasainehal1781/23CSBTB28/blob/main/Lab_4.ipynb">LAB 4</a></br>
 <a href="https://github.com/poornasainehal1781/23CSBTB28/blob/main/Lab_5.ipynb">LAB 5</a></br>
 <a href="https://github.com/poornasainehal1781/23CSBTB28/blob/main/Lab_6.ipynb">LAB 6</a></br>
+<a href="">LAB 7</a></br>
+<a href="">LAB 6</a></br>
